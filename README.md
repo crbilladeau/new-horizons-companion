@@ -18,3 +18,7 @@ You can view and download the app at the App Store for free here:
 
 https://apps.apple.com/us/app/new-horizons-companion/id1503252262?ls=1
 
+Or, you can use Expo by downloading Expo from the App Store or viewing it in the browser here:
+
+https://expo.io/@cbilladeau/nh-companion
+
