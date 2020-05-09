@@ -2,7 +2,7 @@
 
 A project I made for the new Animal Crossing: New Horizons game for the Switch. Built using React Native and published to the iOS App Store.
 
-<img src="https://github.com/crbilladeau/hostedmedia/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-22%20at%2020.29.43.png" height="500"> <img src="https://github.com/crbilladeau/hostedmedia/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-22%20at%2020.29.57.png" height="500">
+<img src="https://github.com/crbilladeau/hostedmedia/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-22%20at%2020.29.43.png" height="500"> <img src="https://github.com/crbilladeau/hostedmedia/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-22%20at%2020.29.57.png" height="500"><img src="https://github.com/crbilladeau/hostedmedia/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-22%20at%2020.31.32.png" height="500">
 
 My first attempt working with React Native specifically and Expo. Still a work in progress - looking to make the components more reusable now that it's been released.
 
