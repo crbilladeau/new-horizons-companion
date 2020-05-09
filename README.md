@@ -1,6 +1,6 @@
 # New Horizons Companion App
 
-<img src="https://github.com/crbilladeau/hostedmedia/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-22%20at%2020.29.43.png" height="200">
+<img src="https://github.com/crbilladeau/hostedmedia/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-22%20at%2020.29.43.png" height="400">
 
 A project I made for the new Animal Crossing: New Horizons game for the Switch. Built using React Native and published to the iOS App Store.
 
