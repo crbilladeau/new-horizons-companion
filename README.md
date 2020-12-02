@@ -1,11 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/crbilladeau/new-horizons-companion">
-    <img src="assets/icon.png" alt="Logo" width="60" height="60 />
+  <a href="https://github.com/crbilladeau/watcher">
+    <img src="public/favicon-32x32.png" alt="Logo" width="32" height="32">
   </a>
 
-  <h2 align="center">New Horizons Companion</h2>
+  <h2 align="center">Watcher</h3>
 
   <p align="center">
     An iOS app companion for the video game <i>Animal Crossing: New Horizons</i> released to the iOS App Store in May 2019. Written in React Native and built on Expo.
@@ -14,7 +14,7 @@
      <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/ACNH1.png?raw=true" alt="New Horizons App Screenshot" width="400" />
     <br />
   </p>
-  <h2 align="center">View the <a href="https://expo.io/@cbilladeau/nh-companion">Expo Demo</a> in the browser</h2>
+<h2 align="center">View the <a href="https://expo.io/@cbilladeau/nh-companion">Expo Demo</a> in the browser</h2>
   <h2 align="center">Or, download it from the iOS App Store:
   <a href="https://apps.apple.com/us/app/new-horizons-companion/id1503252262?ls=1">
     <br />
@@ -22,8 +22,6 @@
   </a></h2> 
   <br />
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
