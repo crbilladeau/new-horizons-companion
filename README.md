@@ -62,7 +62,8 @@
      <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/ACNH3.png?raw=true" alt="New Horizons Companion Mobile Screenshot" width="400">
   </div>
 </div>
-<br />
+
+
 **The New Horizons Companion App** is an iOS app written in **React Native** and built on **Expo**. It features:
 
 * Live searching, alphabetical sorting, and button filter sorting by species, personality, and style
