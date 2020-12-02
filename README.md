@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/crbilladeau/watcher">
-    <img src="public/favicon-32x32.png" alt="Logo" width="32" height="32">
+    <img src="assets/images/icon.png" alt="Logo" width="60" height="60">
   </a>
 
   <h2 align="center">Watcher</h3>
