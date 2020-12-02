@@ -4,8 +4,7 @@
   <a href="https://github.com/crbilladeau/watcher">
     <img src="assets/images/icon.png" alt="Logo" width="60" height="60">
   </a>
-
-  <h2 align="center">Watcher</h3>
+  <h2 align="center">New Horizons Companion</h3>
 
   <p align="center">
     An iOS app companion for the video game <i>Animal Crossing: New Horizons</i> released to the iOS App Store in May 2019. Written in React Native and built on Expo.
