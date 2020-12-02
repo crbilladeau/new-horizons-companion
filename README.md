@@ -61,6 +61,7 @@
      <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/ACNH2.png?raw=true" alt="New Horizons Companion Mobile Screenshot" width="400">
      <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/ACNH3.png?raw=true" alt="New Horizons Companion Mobile Screenshot" width="400">
   </div>
+  <br />
 </div>
 
 
