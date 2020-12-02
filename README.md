@@ -27,7 +27,8 @@ https://expo.io/@cbilladeau/nh-companion
     <br />
   </p>
   <h2 align="center">View the <a href="https://expo.io/@cbilladeau/nh-companion">Expo Demo</a> in the browser</h2>
-  <h2 align="center">Or, download it from the iOS App Store <a href="https://apps.apple.com/us/app/new-horizons-companion/id1503252262?ls=1">Here</a>
+  <h2 align="center">Or, download it from the iOS App Store 
+  <a href="https://apps.apple.com/us/app/new-horizons-companion/id1503252262?ls=1"><img src="https://i.ya-webdesign.com/images/how-to-download-a-png-image-3.png" height="100"></a>
   <br />
 </p>
 
