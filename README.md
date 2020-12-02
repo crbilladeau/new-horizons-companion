@@ -117,13 +117,6 @@ This is an example of how to list things you need to use the software and how to
 5. Open a Pull Request
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
