@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/crbilladeau/new-horizons-companion">
-    <img src="public/favicon-32x32.png" alt="Logo" width="32" height="32">
+    <img src="assets/icon.png" alt="Logo" width="60" height="60
   </a>
 
   <h2 align="center">New Horizons Companion</h2>
@@ -67,9 +67,9 @@
 
 **The New Horizons Companion App** is an iOS app written in **React Native** and built on **Expo**. It features:
 
-* Live searching, alphabetical sorting, and button filter sorting by species, personality, and style
-* Interactive pop-out modal for information on villagers, creatures, events
-* Push notifications feature that will send notifications on the day of a specific event
+* Live searching, alphabetical sorting, and button filtering for sorting villagers by species, personality, and style
+* Interactive pop-out modal for information on villagers, creatures, and events
+* Mobile push notifications that will send notifications on the day of a specific event
 
 This was my first attempt working with React Native and Expo specifically, after only working with React exclusively for several years. It is also my first mobile app, and the first one I published to the App Store.
 
