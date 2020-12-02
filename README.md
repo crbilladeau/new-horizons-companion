@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/crbilladeau/new-horizons-companion">
-    <img src="assets/icon.png" alt="Logo" width="60" height="60
+    <img src="assets/icon.png" alt="Logo" width="60" height="60 />
   </a>
 
   <h2 align="center">New Horizons Companion</h2>
