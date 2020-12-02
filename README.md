@@ -1,15 +1,3 @@
-
-
-You can view and download the app at the App Store for free here: 
-
-<img src="https://i.ya-webdesign.com/images/how-to-download-a-png-image-3.png" height="100">
-
-https://apps.apple.com/us/app/new-horizons-companion/id1503252262?ls=1
-
-Or, you can use Expo by downloading Expo from the App Store or viewing it in the browser here:
-
-https://expo.io/@cbilladeau/nh-companion
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -17,17 +5,17 @@ https://expo.io/@cbilladeau/nh-companion
     <img src="public/favicon-32x32.png" alt="Logo" width="32" height="32">
   </a>
 
-  <h2 align="center">New Horizons Companion</h3>
+  <h2 align="center">New Horizons Companion</h2>
 
   <p align="center">
     An iOS app companion for the video game <i>Animal Crossing: New Horizons</i> released to the iOS App Store in May 2019. Written in React Native and built on Expo.
     <br />
     <br />
-     <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/ACNH1.png?raw=true" alt="New Horizons App Screenshot" width="400">
+     <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/ACNH1.png?raw=true" alt="New Horizons App Screenshot" width="400" />
     <br />
   </p>
   <h2 align="center">View the <a href="https://expo.io/@cbilladeau/nh-companion">Expo Demo</a> in the browser</h2>
-  <h2 align="center">Or, download it from the iOS App Store 
+  <h2 align="center">Or, download it from the iOS App Store"</h2> 
   <a href="https://apps.apple.com/us/app/new-horizons-companion/id1503252262?ls=1"><img src="https://i.ya-webdesign.com/images/how-to-download-a-png-image-3.png" height="100" /></a>
   <br />
 </p>
