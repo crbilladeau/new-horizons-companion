@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<div align="center">
   <a href="https://github.com/crbilladeau/watcher">
     <img src="assets/images/icon.png" alt="Logo" width="60" height="60">
   </a>
@@ -13,14 +13,8 @@
      <img src="https://github.com/crbilladeau/portfolio/blob/master/src/assets/images/ACNH1.png?raw=true" alt="New Horizons App Screenshot" width="400" />
     <br />
   </p>
-<h2 align="center">View the <a href="https://expo.io/@cbilladeau/nh-companion">Expo Demo</a> in the browser</h2>
-  <h2 align="center">Or, download it from the iOS App Store:
-  <a href="https://apps.apple.com/us/app/new-horizons-companion/id1503252262?ls=1">
-    <br />
-    <img src="https://i.ya-webdesign.com/images/how-to-download-a-png-image-3.png" height="100" />
-  </a></h2> 
-  <br />
-</p>
+<h2 align="center">No longer available in the App Store</h2>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
